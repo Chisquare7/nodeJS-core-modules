@@ -1,0 +1,11 @@
+{
+  "name": "fs-module",
+  "version": "1.0.0",
+  "description": "Manipulations of directories and files using NodeJS File System module",
+  "main": "fileSystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chibuike Chijioke",
+  "license": "ISC"
+}
